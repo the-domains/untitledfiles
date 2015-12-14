@@ -1,0 +1,28 @@
+name: UNTITLEDFILES
+favicon: null
+layout_spectrum: 0.8677199627272785
+typography_spectrum: 0.7182194418273866
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.20185792236588895
+  lightness: 0.4821922436822206
+  saturation: 0.8900252850726247
+  rhythmicContrast: 0.37211578455753624
+purpose: []
