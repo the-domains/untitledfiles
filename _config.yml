@@ -1,29 +1,41 @@
-name: UNTITLEDFILES
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.38838
 title: curated by Radek Sadowski
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.8900253
+  brandStrength: 0
+  lightness: 0.8781362
   brandColors:
     - '#ffffff'
     - '#0e0e0e'
     - '#6b6b6b'
     - '#303030'
     - '#bbbbbb'
-  brandStrength: 0
-  lightness: 0.4821922436822206
-  saturation: 0.8900252850726247
-  rhythmicContrast: 0.37211578455753624
-purpose: []
+  rhythmicContrast: 0.3721158
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: UNTITLEDFILES
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.38838
+layout_spectrum: 1
